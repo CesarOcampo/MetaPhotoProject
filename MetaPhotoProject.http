@@ -1,0 +1,6 @@
+@MetaPhotoProject_HostAddress = http://localhost:5073
+
+GET {{MetaPhotoProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

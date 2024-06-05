@@ -1,0 +1,77 @@
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.csproj.AssemblyReference.cache
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.AssemblyInfoInputs.cache
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.AssemblyInfo.cs
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.csproj.CoreCompileInputs.cache
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\appsettings.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.exe
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.deps.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.runtimeconfig.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.pdb
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.MetaPhotoProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.build.MetaPhotoProject.props
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MetaPhotoProject.props
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MetaPhotoProject.props
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\scopedcss\bundle\MetaPhotoProject.styles.css
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhot.38E9D2B2.Up2Date
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\refint\MetaPhotoProject.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.pdb
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.genruntimeconfig.cache
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\obj\Debug\net8.0\ref\MetaPhotoProject.dll
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\ClientApp\package-lock.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\ClientApp\package.json
+C:\Users\52154888\Downloads\New folder (2)\MetaPhotoProject\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\appsettings.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\ClientApp\package-lock.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\ClientApp\package.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.exe
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.deps.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.runtimeconfig.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\MetaPhotoProject.pdb
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.csproj.AssemblyReference.cache
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.AssemblyInfoInputs.cache
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.AssemblyInfo.cs
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.csproj.CoreCompileInputs.cache
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.MetaPhotoProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.build.MetaPhotoProject.props
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MetaPhotoProject.props
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MetaPhotoProject.props
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\scopedcss\bundle\MetaPhotoProject.styles.css
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhot.38E9D2B2.Up2Date
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\refint\MetaPhotoProject.dll
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.pdb
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\MetaPhotoProject.genruntimeconfig.cache
+C:\Users\52154888\Source\Repos\MetaPhotoProject\obj\Debug\net8.0\ref\MetaPhotoProject.dll
+C:\Users\52154888\source\repos\MetaPhotoProject\bin\Debug\net8.0\ClientApp\build\asset-manifest.json

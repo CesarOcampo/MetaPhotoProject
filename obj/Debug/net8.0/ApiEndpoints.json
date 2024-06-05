@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "PhotosController",
+    "Method": "GetFilteredPhotos",
+    "RelativePath": "externalapi/Photos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "albumTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "offset",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
